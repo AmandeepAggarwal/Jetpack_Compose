@@ -4,6 +4,11 @@ What's JetPack Compose?
 
 Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android bringing your apps to life with less code, powerful tools, and intuitive Kotlin APIs. 
 
+Components Used:- 
+Text
+Button , Outline Buttons, IconButtons
+Lazy Columns,Columns,Rows
+
 #Setup
 Set up Compose for an existing app
 
