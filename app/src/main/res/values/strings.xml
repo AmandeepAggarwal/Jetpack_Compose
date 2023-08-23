@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetPackCompose</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="title_activity_recycle_view">RecycleViewActivity</string>
+</resources>
