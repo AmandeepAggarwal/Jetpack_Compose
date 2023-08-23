@@ -4,11 +4,6 @@ What's JetPack Compose?
 
 Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android bringing your apps to life with less code, powerful tools, and intuitive Kotlin APIs. 
 
-It makes building Android UI faster and easier. While creating Compose we worked with different partners who experienced all of these benefits first hand and shared some of their takeaways with us.
-
-Composable Function 
-A composable function is a regular function annotated with @Composable. This enables your function to call other @Composable functions within it. This function will produce a piece of UI hierarchy displaying the given input, String. Text is a composable function provided by the library.
-
 #Setup
 Set up Compose for an existing app
 
